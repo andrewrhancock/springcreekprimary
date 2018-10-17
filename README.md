@@ -1,11 +1,13 @@
 ## Welcome to Spring Creek Primary
 
+## Songs
+[I believe what I believe](https://www.youtube.com/watch?v=3PlyzaKkzTQ)
+
 You can use the [editor on GitHub](https://github.com/andrewrhancock/springcreekprimary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Songs
-[I believe what I believe](https://www.youtube.com/watch?v=3PlyzaKkzTQ)
+
 
 ### Markdown
 
@@ -14,7 +16,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 
+# Header 1
 ## Header 2
 ### Header 3
 
