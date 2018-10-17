@@ -1,7 +1,7 @@
 # Welcome to Spring Creek Primary!
 
 ## Songs
-![I believe what I believe](https://www.youtube.com/watch?v=3PlyzaKkzTQ)
+(<iframe width="560" height="315" src="https://www.youtube.com/embed/3PlyzaKkzTQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
 
 You can use the [editor on GitHub](https://github.com/andrewrhancock/springcreekprimary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
