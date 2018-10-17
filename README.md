@@ -3,7 +3,23 @@
 ## Songs
 (<iframe width="560" height="315" src="https://www.youtube.com/embed/3PlyzaKkzTQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
 
+["Thankful" by Shawna Edwards](https://www.youtube.com/watch?v=XTHDKxOL9cg)
+
+
+
+["I Think the World is Glorious"](https://www.youtube.com/watch?v=4ZtlbjeMylk)
+
+
+
 ["Do You Have Room?" By Shawna Edwards](https://www.youtube.com/watch?v=jR7lo9ycKBA)
+
+
+
+["Peace in Christ"](https://www.youtube.com/watch?v=R46J-GjbRWA)
+
+
+
+["If I Were a Shepard"](https://www.youtube.com/watch?v=8XlKiB9r6WI)
 
 You can use the [editor on GitHub](https://github.com/andrewrhancock/springcreekprimary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
