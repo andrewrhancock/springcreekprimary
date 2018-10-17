@@ -1,4 +1,4 @@
-## Welcome to Spring Creek Primary
+# Welcome to Spring Creek Primary!
 
 ## Songs
 [I believe what I believe](https://www.youtube.com/watch?v=3PlyzaKkzTQ)
