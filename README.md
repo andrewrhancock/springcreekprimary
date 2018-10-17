@@ -19,7 +19,7 @@
 
 
 
-["If I Were a Shepard"](https://www.youtube.com/watch?v=8XlKiB9r6WI)
+["If I Were a Shepherd"](https://www.youtube.com/watch?v=8XlKiB9r6WI)
 
 You can use the [editor on GitHub](https://github.com/andrewrhancock/springcreekprimary/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
