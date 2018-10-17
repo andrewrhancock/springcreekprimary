@@ -3,7 +3,7 @@
 ## Songs
 (<iframe width="560" height="315" src="https://www.youtube.com/embed/3PlyzaKkzTQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>)
 
-["Thankful" by Shawna Edwards](https://www.youtube.com/watch?v=XTHDKxOL9cg)
+["Thankful"](https://www.youtube.com/watch?v=XTHDKxOL9cg)
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-["Do You Have Room?" By Shawna Edwards](https://www.youtube.com/watch?v=jR7lo9ycKBA)
+["Do You Have Room?"](https://www.youtube.com/watch?v=jR7lo9ycKBA)
 
 
 
