@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/andrewrhancock/springcreek
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-##[I believe what I believe] (https://www.youtube.com/watch?v=3PlyzaKkzTQ)
+## [I believe what I believe]https://www.youtube.com/watch?v=3PlyzaKkzTQ)
 
 ### Markdown
 
